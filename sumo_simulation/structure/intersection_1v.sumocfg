@@ -1,0 +1,4 @@
+<configuration>
+    <net-file value="/home/xuhuizhang/intention_estimation/simulation/intersection/structure/intersection_3lanes.net.xml"/>
+    <route-files value="/home/xuhuizhang/intention_estimation/simulation/intersection/structure/v0_w2s.rou.xml"/>
+</configuration>

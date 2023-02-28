@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2022-12-20 11:33:08 by Eclipse SUMO netedit Version 1.15.0
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <!-- Vehicles, persons and containers (sorted by depart) -->
+    <trip id="t0_w2s" depart="0.00" from="w2c" to="c2s"/>
+    <trip id="t10_n2s" depart="0.00" from="n2c" to="c2s"/>
+    <trip id="t11_n2e" depart="0.00" from="n2c" to="c2e"/>
+    <trip id="t1_w2e" depart="0.00" from="w2c" to="c2e"/>
+    <trip id="t2_s2w" depart="0.00" from="s2c" to="c2w"/>
+    <trip id="t2_w2n" depart="0.00" from="w2c" to="c2n"/>
+    <trip id="t4_s2n" depart="0.00" from="s2c" to="c2n"/>
+    <trip id="t5_s2e" depart="0.00" from="s2c" to="c2e"/>
+    <trip id="t6_e2s" depart="0.00" from="e2c" to="c2s"/>
+    <trip id="t7_e2w" depart="0.00" from="e2c" to="c2w"/>
+    <trip id="t8_e2n" depart="0.00" from="e2c" to="c2n"/>
+    <trip id="t9_n2w" depart="0.00" from="n2c" to="c2w"/>
+</routes>
