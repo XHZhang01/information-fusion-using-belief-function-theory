@@ -8,8 +8,8 @@ The whole belief processing framework can be found in this repository. Besides b
 Two scenarios, namely the intersection and jaywalking are simulated to generate data. Such data will be given to framework for processing. Development of both results can be visualized with plots.
 
 ## procedure
-Run the simulation and generate data
+Run the simulation and generate data.
 
-Place the data in the folder of the framework
+Place the data in the folder of the framework.
 
-Run the framwork to process the data
+Run the framwork to process the data.
