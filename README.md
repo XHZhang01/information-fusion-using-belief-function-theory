@@ -9,5 +9,7 @@ Two scenarios, namely the intersection and jaywalking are simulated to generate 
 
 ## procedure
 Run the simulation and generate data
+
 Place the data in the folder of the framework
+
 Run the framwork to process the data
